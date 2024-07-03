@@ -8,9 +8,9 @@ My name is Antony and I am fascinated by front-end development because of my pas
 
 # 📱 Socials
 
-![Instagram](https://www.google.com)
+![Instagram]([https://www.google.com](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white))
 
 # 📊 GitHub Stats:
-![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Antony's GitHub Stats](https://www.kibum.com.br/stats?username=AntonyLD)
 
 
