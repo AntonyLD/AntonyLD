@@ -12,5 +12,8 @@ My name is Antony and I am fascinated by front-end development because of my pas
 
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyLD)](https://github.com/AntonyLD/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyLD&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyLD&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyLD&show_icons=true&theme=transparent)
 
 
