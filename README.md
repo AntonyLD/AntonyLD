@@ -8,9 +8,9 @@ My name is Antony and I am fascinated by front-end development because of my pas
 
 # 📱 Socials
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://www.google.com)
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
